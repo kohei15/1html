@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# exercise_html
-=======
-# 1html
->>>>>>> origin/master
+READ ME
